@@ -1,0 +1,53 @@
+.logo {
+    display: block;
+    margin: 10% auto 50px auto;
+    width: 272px;
+    margin-bottom: 20px;
+}
+
+#searchBar {
+
+  display: inline-block;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border-style: none;
+  height: 36px;
+  font-family: arial;
+  font-size: small;
+}
+
+.search {
+  display: block;
+  margin: 20px auto 50px auto;
+  width: 27%;
+  border-radius: 19px;
+  border-color: lightgrey;
+  height: 38px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#keyboard {
+  display: inline-block;
+  margin-right: 4px;
+  margin-left: 4px;
+  width: 19px;
+}
+
+.forms {
+  display: inline-block;
+  margin: auto auto auto auto;
+  width: 86%;
+}
+
+#magnify {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 4px;
+  width: 19px;
+  height: 19px;
+
+}
